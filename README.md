@@ -6,6 +6,8 @@ This code was developed as a collection of modules over more than twenty years a
 
 The code consists of a set of C-language programs, which while free standing, generally are called from python modules during production.
 
+This page describes production code. Most users will be better served by an extensive set of [Jupyter Notebooks and Python packages](https://github.com/fastice/GrIMPTools) to work with the GrIMP [products](https://nsidc.org/data/measures/grimp).
+
 # Velocity and Image Mosaicing Code
 
 The main programs for producing velocity and image mosaics as well as supporting programs for baseline estimation functions are located in the [mosaicSource](https://github.com/fastice/mosaicSource) repository.
