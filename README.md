@@ -21,3 +21,7 @@ The code for speckle tracking from two SLC images is located in the [speckleSour
 # Python Workflow
 
 The above described C programs are called from Python programs located in the [mosaicWorkflow](https://github.com/fastice/mosaicWorkflow) repository.
+
+# OSU SETSM Code
+
+The OSU optical processing code is available in the [SETSM](https://github.com/setsmdeveloper/SETSM) repository.
